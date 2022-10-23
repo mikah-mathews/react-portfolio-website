@@ -37,6 +37,7 @@ header {
 }
 
 /* ++++++++++ ME ++++++++++ */
+/* For some reason when in medium display photo will get cut??*/
 .me {
   background: linear-gradient(var(--color-primary), transparent);
   width: 22rem;
